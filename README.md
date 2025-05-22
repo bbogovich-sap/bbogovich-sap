@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hello!  I'm a developer at SAP, primarily focused on UI development pushing the bounds of what SAPUI5 is capable of.
+
 <!--
 **bbogovich-sap/bbogovich-sap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
