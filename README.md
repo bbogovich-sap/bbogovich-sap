@@ -52,7 +52,7 @@ With 25 years in the industry, I've been involved in a few things here and there
 ## Previous Employers
  - SmartOps (Acquired by SAP)
  - Celerity Innovation Center (defunct)
- - [ChorusCall](httos://www.choruscall.com)
+ - [Chorus Call](https://www.choruscall.com)
  - [TDC Group Inc.](https://www.tdc-group.com)
 
 <!--
